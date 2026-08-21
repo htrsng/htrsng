@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,40:1a1a4e,100:2d1b69&amp;height=220&amp;section=header&amp;text=Nguyen%20Thi%20Huyen%20Trang&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Information%20Technology%20Student&amp;descSize=20&amp;descAlignY=60&amp;descColor=c4b5fd&amp;animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,40:1a1a4e,100:2d1b69&amp;height=220&amp;section=header&amp;text=Nguyen%20Thi%20Huyen%20Trang&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;descAlignY=60&amp;descColor=c4b5fd&amp;animation=fadeIn" alt="Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=🧠+System+Thinker+%7C+Problem+Solver;🔍+BA+,+QA%2FQC+%7C+Bridging+Biz+,+Tech;🚀+From+Requirements+to+Delivery;🌐+Web+%7C+Mobile+%7C+AI+%7C+3D+Developer;📐+Math+Optimization+%7C+Distributed+Systems" alt="Typing SVG" />
